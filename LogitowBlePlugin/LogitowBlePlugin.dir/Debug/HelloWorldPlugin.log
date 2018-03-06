@@ -1,0 +1,8 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中间目录(HelloWorldPlugin.dir\Debug\)包含从另一个项目(HelloWorldPlugin.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Building Custom Rule E:/svnadmin/developer/ParaCraftSDK/samples/plugins/HelloWorldCppDll/CMakeLists.txt
+  CMake does not need to re-run because E:/svnadmin/developer/ParaCraftSDK/samples/plugins/HelloWorldCppDll/CMakeFiles/generate.stamp is up-to-date.
+  stdafx.cpp
+  LogitowBle.cpp
+  LogitowBlePlugin.cpp
+LogitowBlePlugin.cpp(33): error C2065: “LogitowBlePlugin_GetClassDesc”: 未声明的标识符
+  正在生成代码...

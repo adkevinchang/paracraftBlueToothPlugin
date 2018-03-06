@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\f9d853a5c4e41f28de76b8b8d93a259a\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E4917B1E-E49D-3D47-AE04-EE478F2BDF42}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

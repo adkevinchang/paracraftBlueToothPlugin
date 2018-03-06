@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LogitowBle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LogitowBlePlugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LogitowBleControler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="event\EventBus.cpp">
+      <Filter>Source Files\event</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LogitowBle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LogitowBlePlugin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="btle_helpers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LogitowBleControler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="btle_characteristics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="btle_characteristics_long.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="btle_descriptors.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="btle_services.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="btle_services_long.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="event\Event.hpp">
+      <Filter>Source Files\event</Filter>
+    </ClInclude>
+    <ClInclude Include="event\EventBus.hpp">
+      <Filter>Source Files\event</Filter>
+    </ClInclude>
+    <ClInclude Include="event\EventHandler.hpp">
+      <Filter>Source Files\event</Filter>
+    </ClInclude>
+    <ClInclude Include="event\HandlerRegistration.hpp">
+      <Filter>Source Files\event</Filter>
+    </ClInclude>
+    <ClInclude Include="event\Object.hpp">
+      <Filter>Source Files\event</Filter>
+    </ClInclude>
+    <ClInclude Include="BleEvent.hpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\readme.txt" />
+    <None Include="LogitowBlePlugin.def">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9AE24724-A21C-3C5A-9AD4-71C259BE65CB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{984CEF11-FA59-37FA-9518-2508E1117CF5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\event">
+      <UniqueIdentifier>{7b783bdb-82d9-4987-8105-f5490eb4b82d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

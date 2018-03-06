@@ -1,0 +1,11 @@
+﻿  Building Custom Rule E:/svnadmin/developer/ParaCraftSDK/samples/plugins/HelloWorldCppDll/CMakeLists.txt
+  CMake does not need to re-run because E:/svnadmin/developer/ParaCraftSDK/samples/plugins/HelloWorldCppDll/CMakeFiles/generate.stamp is up-to-date.
+  stdafx.cpp
+  EventBus.cpp
+  LogitowBle.cpp
+  LogitowBleControler.cpp
+  LogitowBlePlugin.cpp
+  正在生成代码...
+    正在创建库 E:\svnadmin\developer\logiTower\bluetoothplugin\LogitowBlePlugin\Debug\LogitowBlePlugin_d.lib 和对象 E:\svnadmin\developer\logiTower\bluetoothplugin\LogitowBlePlugin\Debug\LogitowBlePlugin_d.exp
+LogitowBlePlugin_d.exp : warning LNK4070: .EXP 中的 /OUT:HelloWordlPlugin.dll 指令与输出文件名“E:\svnadmin\developer\logiTower\bluetoothplugin\LogitowBlePlugin\Debug\LogitowBlePlugin_d.dll”不同；忽略指令
+  LogitowBlePlugin.vcxproj -> E:\svnadmin\developer\logiTower\bluetoothplugin\LogitowBlePlugin\Debug\LogitowBlePlugin_d.dll

@@ -1,0 +1,623 @@
+The system is: Windows - 10.0.15063 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) ��������汾 15.1.1012.6693
+��Ȩ����(C) Microsoft Corporation����������Ȩ����
+
+��������ʱ��Ϊ 2017/12/6 11:32:15��
+�ڵ� 1 �ϵ���Ŀ��E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\3.9.0-rc2\CompilerIdC\CompilerIdC.vcxproj��(Ĭ��Ŀ��)��
+PrepareForBuild:
+  ���ڴ���Ŀ¼��Debug\����
+  ���ڴ���Ŀ¼��Debug\CompilerIdC.tlog\����
+InitializeBuildStatus:
+  ���ڴ�����Debug\CompilerIdC.tlog\unsuccessfulbuild������Ϊ��ָ����AlwaysCreate����
+ClCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.10.25017\bin\HostX86\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:classic /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.10.25017\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\3.9.0-rc2\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.10.25017\bin\HostX86\x86\cl.exe
+FinalizeBuildStatus:
+  ����ɾ���ļ���Debug\CompilerIdC.tlog\unsuccessfulbuild����
+  ���ڶԡ�Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate��ִ�� Touch ����
+�����������Ŀ��E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\3.9.0-rc2\CompilerIdC\CompilerIdC.vcxproj��(Ĭ��Ŀ��)�Ĳ�����
+
+�ѳɹ����ɡ�
+    0 ������
+    0 ������
+
+����ʱ�� 00:00:02.35
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "E:/svnadmin/developer/ParaCraftSDK/samples/plugins/HelloWorldCppDll/CMakeFiles/3.9.0-rc2/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) ��������汾 15.1.1012.6693
+��Ȩ����(C) Microsoft Corporation����������Ȩ����
+
+��������ʱ��Ϊ 2017/12/6 11:32:18��
+�ڵ� 1 �ϵ���Ŀ��E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\3.9.0-rc2\CompilerIdCXX\CompilerIdCXX.vcxproj��(Ĭ��Ŀ��)��
+PrepareForBuild:
+  ���ڴ���Ŀ¼��Debug\����
+  ���ڴ���Ŀ¼��Debug\CompilerIdCXX.tlog\����
+InitializeBuildStatus:
+  ���ڴ�����Debug\CompilerIdCXX.tlog\unsuccessfulbuild������Ϊ��ָ����AlwaysCreate����
+ClCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.10.25017\bin\HostX86\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:classic /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.10.25017\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\3.9.0-rc2\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.10.25017\bin\HostX86\x86\cl.exe
+FinalizeBuildStatus:
+  ����ɾ���ļ���Debug\CompilerIdCXX.tlog\unsuccessfulbuild����
+  ���ڶԡ�Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate��ִ�� Touch ����
+�����������Ŀ��E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\3.9.0-rc2\CompilerIdCXX\CompilerIdCXX.vcxproj��(Ĭ��Ŀ��)�Ĳ�����
+
+�ѳɹ����ɡ�
+    0 ������
+    0 ������
+
+����ʱ�� 00:00:01.61
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "E:/svnadmin/developer/ParaCraftSDK/samples/plugins/HelloWorldCppDll/CMakeFiles/3.9.0-rc2/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: E:/svnadmin/developer/ParaCraftSDK/samples/plugins/HelloWorldCppDll/CMakeFiles/CMakeTmp
+
+Run Build Command:"D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_c5a7f.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) 生成引擎版本 15.1.1012.6693
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/12/6 11:32:20。
+节点 1 上的项目“E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\cmTC_c5a7f.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_c5a7f.dir\Debug\”。
+  正在创建目录“E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_c5a7f.dir\Debug\cmTC_c5a7f.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_c5a7f.dir\Debug\cmTC_c5a7f.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.10.25017\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c5a7f.dir\Debug\\" /Fd"cmTC_c5a7f.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\testCCompiler.c
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.10.25019 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c5a7f.dir\Debug\\" /Fd"cmTC_c5a7f.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\testCCompiler.c
+  testCCompiler.c
+  
+Link:
+  D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.10.25017\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\Debug\cmTC_c5a7f.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/svnadmin/developer/ParaCraftSDK/samples/plugins/HelloWorldCppDll/CMakeFiles/CMakeTmp/Debug/cmTC_c5a7f.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/svnadmin/developer/ParaCraftSDK/samples/plugins/HelloWorldCppDll/CMakeFiles/CMakeTmp/Debug/cmTC_c5a7f.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_c5a7f.dir\Debug\testCCompiler.obj
+  cmTC_c5a7f.vcxproj -> E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\Debug\cmTC_c5a7f.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_c5a7f.dir\Debug\cmTC_c5a7f.tlog\unsuccessfulbuild”。
+  正在对“cmTC_c5a7f.dir\Debug\cmTC_c5a7f.tlog\cmTC_c5a7f.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\cmTC_c5a7f.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.88
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: E:/svnadmin/developer/ParaCraftSDK/samples/plugins/HelloWorldCppDll/CMakeFiles/CMakeTmp
+
+Run Build Command:"D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_3fd47.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) 生成引擎版本 15.1.1012.6693
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/12/6 11:32:22。
+节点 1 上的项目“E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\cmTC_3fd47.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_3fd47.dir\Debug\”。
+  正在创建目录“E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_3fd47.dir\Debug\cmTC_3fd47.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_3fd47.dir\Debug\cmTC_3fd47.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.10.25017\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3fd47.dir\Debug\\" /Fd"cmTC_3fd47.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "D:\Program Files\CMake\share\cmake-3.9\Modules\CMakeCCompilerABI.c"
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.10.25019 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3fd47.dir\Debug\\" /Fd"cmTC_3fd47.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "D:\Program Files\CMake\share\cmake-3.9\Modules\CMakeCCompilerABI.c"
+  CMakeCCompilerABI.c
+  
+Link:
+  D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.10.25017\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\Debug\cmTC_3fd47.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/svnadmin/developer/ParaCraftSDK/samples/plugins/HelloWorldCppDll/CMakeFiles/CMakeTmp/Debug/cmTC_3fd47.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/svnadmin/developer/ParaCraftSDK/samples/plugins/HelloWorldCppDll/CMakeFiles/CMakeTmp/Debug/cmTC_3fd47.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_3fd47.dir\Debug\CMakeCCompilerABI.obj
+  cmTC_3fd47.vcxproj -> E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\Debug\cmTC_3fd47.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_3fd47.dir\Debug\cmTC_3fd47.tlog\unsuccessfulbuild”。
+  正在对“cmTC_3fd47.dir\Debug\cmTC_3fd47.tlog\cmTC_3fd47.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\cmTC_3fd47.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.35
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: E:/svnadmin/developer/ParaCraftSDK/samples/plugins/HelloWorldCppDll/CMakeFiles/CMakeTmp
+
+Run Build Command:"D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_cfe23.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) 生成引擎版本 15.1.1012.6693
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/12/6 11:32:24。
+节点 1 上的项目“E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\cmTC_cfe23.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_cfe23.dir\Debug\”。
+  正在创建目录“E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_cfe23.dir\Debug\cmTC_cfe23.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_cfe23.dir\Debug\cmTC_cfe23.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.10.25017\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_cfe23.dir\Debug\\" /Fd"cmTC_cfe23.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.10.25019 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_cfe23.dir\Debug\\" /Fd"cmTC_cfe23.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+  testCXXCompiler.cxx
+  
+Link:
+  D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.10.25017\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\Debug\cmTC_cfe23.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/svnadmin/developer/ParaCraftSDK/samples/plugins/HelloWorldCppDll/CMakeFiles/CMakeTmp/Debug/cmTC_cfe23.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/svnadmin/developer/ParaCraftSDK/samples/plugins/HelloWorldCppDll/CMakeFiles/CMakeTmp/Debug/cmTC_cfe23.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_cfe23.dir\Debug\testCXXCompiler.obj
+  cmTC_cfe23.vcxproj -> E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\Debug\cmTC_cfe23.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_cfe23.dir\Debug\cmTC_cfe23.tlog\unsuccessfulbuild”。
+  正在对“cmTC_cfe23.dir\Debug\cmTC_cfe23.tlog\cmTC_cfe23.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\cmTC_cfe23.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.33
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: E:/svnadmin/developer/ParaCraftSDK/samples/plugins/HelloWorldCppDll/CMakeFiles/CMakeTmp
+
+Run Build Command:"D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_8504f.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) 生成引擎版本 15.1.1012.6693
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/12/6 11:32:25。
+节点 1 上的项目“E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\cmTC_8504f.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_8504f.dir\Debug\”。
+  正在创建目录“E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_8504f.dir\Debug\cmTC_8504f.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_8504f.dir\Debug\cmTC_8504f.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.10.25017\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_8504f.dir\Debug\\" /Fd"cmTC_8504f.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue "D:\Program Files\CMake\share\cmake-3.9\Modules\CMakeCXXCompilerABI.cpp"
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.10.25019 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_8504f.dir\Debug\\" /Fd"cmTC_8504f.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue "D:\Program Files\CMake\share\cmake-3.9\Modules\CMakeCXXCompilerABI.cpp"
+  CMakeCXXCompilerABI.cpp
+  
+Link:
+  D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.10.25017\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\Debug\cmTC_8504f.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/svnadmin/developer/ParaCraftSDK/samples/plugins/HelloWorldCppDll/CMakeFiles/CMakeTmp/Debug/cmTC_8504f.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/svnadmin/developer/ParaCraftSDK/samples/plugins/HelloWorldCppDll/CMakeFiles/CMakeTmp/Debug/cmTC_8504f.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_8504f.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTC_8504f.vcxproj -> E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\Debug\cmTC_8504f.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_8504f.dir\Debug\cmTC_8504f.tlog\unsuccessfulbuild”。
+  正在对“cmTC_8504f.dir\Debug\cmTC_8504f.tlog\cmTC_8504f.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\cmTC_8504f.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.38
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: E:/svnadmin/developer/ParaCraftSDK/samples/plugins/HelloWorldCppDll/CMakeFiles/CMakeTmp
+
+Run Build Command:"D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_99e9b.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) 生成引擎版本 15.1.1012.6693
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/12/6 11:32:27。
+节点 1 上的项目“E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\cmTC_99e9b.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_99e9b.dir\Debug\”。
+  正在创建目录“E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_99e9b.dir\Debug\cmTC_99e9b.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_99e9b.dir\Debug\cmTC_99e9b.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.10.25017\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_99e9b.dir\Debug\\" /Fd"cmTC_99e9b.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\feature_tests.cxx
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.10.25019 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_99e9b.dir\Debug\\" /Fd"cmTC_99e9b.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\feature_tests.cxx
+  feature_tests.cxx
+  
+Link:
+  D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.10.25017\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\Debug\cmTC_99e9b.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/svnadmin/developer/ParaCraftSDK/samples/plugins/HelloWorldCppDll/CMakeFiles/CMakeTmp/Debug/cmTC_99e9b.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/svnadmin/developer/ParaCraftSDK/samples/plugins/HelloWorldCppDll/CMakeFiles/CMakeTmp/Debug/cmTC_99e9b.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_99e9b.dir\Debug\feature_tests.obj
+  cmTC_99e9b.vcxproj -> E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\Debug\cmTC_99e9b.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_99e9b.dir\Debug\cmTC_99e9b.tlog\unsuccessfulbuild”。
+  正在对“cmTC_99e9b.dir\Debug\cmTC_99e9b.tlog\cmTC_99e9b.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\cmTC_99e9b.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.34
+
+
+    Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_attributes
+    Feature record: CXX_FEATURE:1cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:1cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:1cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:1cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:1cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:1cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:1cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: E:/svnadmin/developer/ParaCraftSDK/samples/plugins/HelloWorldCppDll/CMakeFiles/CMakeTmp
+
+Run Build Command:"D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_f3a29.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) 生成引擎版本 15.1.1012.6693
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/12/6 11:32:29。
+节点 1 上的项目“E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\cmTC_f3a29.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_f3a29.dir\Debug\”。
+  正在创建目录“E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_f3a29.dir\Debug\cmTC_f3a29.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_f3a29.dir\Debug\cmTC_f3a29.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.10.25017\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_f3a29.dir\Debug\\" /Fd"cmTC_f3a29.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\feature_tests.cxx
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.10.25019 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_f3a29.dir\Debug\\" /Fd"cmTC_f3a29.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\feature_tests.cxx
+  feature_tests.cxx
+  
+Link:
+  D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.10.25017\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\Debug\cmTC_f3a29.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/svnadmin/developer/ParaCraftSDK/samples/plugins/HelloWorldCppDll/CMakeFiles/CMakeTmp/Debug/cmTC_f3a29.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/svnadmin/developer/ParaCraftSDK/samples/plugins/HelloWorldCppDll/CMakeFiles/CMakeTmp/Debug/cmTC_f3a29.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_f3a29.dir\Debug\feature_tests.obj
+  cmTC_f3a29.vcxproj -> E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\Debug\cmTC_f3a29.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_f3a29.dir\Debug\cmTC_f3a29.tlog\unsuccessfulbuild”。
+  正在对“cmTC_f3a29.dir\Debug\cmTC_f3a29.tlog\cmTC_f3a29.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\cmTC_f3a29.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.34
+
+
+    Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_attributes
+    Feature record: CXX_FEATURE:1cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:1cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:1cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:1cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:1cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:1cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:1cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: E:/svnadmin/developer/ParaCraftSDK/samples/plugins/HelloWorldCppDll/CMakeFiles/CMakeTmp
+
+Run Build Command:"D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_2a996.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) 生成引擎版本 15.1.1012.6693
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/12/6 11:32:31。
+节点 1 上的项目“E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\cmTC_2a996.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_2a996.dir\Debug\”。
+  正在创建目录“E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_2a996.dir\Debug\cmTC_2a996.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_2a996.dir\Debug\cmTC_2a996.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.10.25017\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_2a996.dir\Debug\\" /Fd"cmTC_2a996.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\feature_tests.cxx
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.10.25019 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_2a996.dir\Debug\\" /Fd"cmTC_2a996.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\feature_tests.cxx
+  feature_tests.cxx
+  
+Link:
+  D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.10.25017\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\Debug\cmTC_2a996.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/svnadmin/developer/ParaCraftSDK/samples/plugins/HelloWorldCppDll/CMakeFiles/CMakeTmp/Debug/cmTC_2a996.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/svnadmin/developer/ParaCraftSDK/samples/plugins/HelloWorldCppDll/CMakeFiles/CMakeTmp/Debug/cmTC_2a996.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_2a996.dir\Debug\feature_tests.obj
+  cmTC_2a996.vcxproj -> E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\Debug\cmTC_2a996.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_2a996.dir\Debug\cmTC_2a996.tlog\unsuccessfulbuild”。
+  正在对“cmTC_2a996.dir\Debug\cmTC_2a996.tlog\cmTC_2a996.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\cmTC_2a996.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.34
+
+
+    Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_attributes
+    Feature record: CXX_FEATURE:1cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:1cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:1cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:1cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:1cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:1cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:1cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: E:/svnadmin/developer/ParaCraftSDK/samples/plugins/HelloWorldCppDll/CMakeFiles/CMakeTmp
+
+Run Build Command:"D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_d57d7.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) 生成引擎版本 15.1.1012.6693
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/12/6 11:32:33。
+节点 1 上的项目“E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\cmTC_d57d7.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_d57d7.dir\Debug\”。
+  正在创建目录“E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_d57d7.dir\Debug\cmTC_d57d7.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_d57d7.dir\Debug\cmTC_d57d7.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.10.25017\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_d57d7.dir\Debug\\" /Fd"cmTC_d57d7.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\feature_tests.cxx
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.10.25019 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_d57d7.dir\Debug\\" /Fd"cmTC_d57d7.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\feature_tests.cxx
+  feature_tests.cxx
+  
+Link:
+  D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.10.25017\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\Debug\cmTC_d57d7.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/svnadmin/developer/ParaCraftSDK/samples/plugins/HelloWorldCppDll/CMakeFiles/CMakeTmp/Debug/cmTC_d57d7.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/svnadmin/developer/ParaCraftSDK/samples/plugins/HelloWorldCppDll/CMakeFiles/CMakeTmp/Debug/cmTC_d57d7.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_d57d7.dir\Debug\feature_tests.obj
+  cmTC_d57d7.vcxproj -> E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\Debug\cmTC_d57d7.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_d57d7.dir\Debug\cmTC_d57d7.tlog\unsuccessfulbuild”。
+  正在对“cmTC_d57d7.dir\Debug\cmTC_d57d7.tlog\cmTC_d57d7.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\svnadmin\developer\ParaCraftSDK\samples\plugins\HelloWorldCppDll\CMakeFiles\CMakeTmp\cmTC_d57d7.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.47
+
+
+    Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_attributes
+    Feature record: CXX_FEATURE:1cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:1cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:1cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:1cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:1cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:1cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:1cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
